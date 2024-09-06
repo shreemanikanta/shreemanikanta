@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 ## 🔭 Projects
 Here are a few projects I've been worked on:
 
-**SportX**: 
+**Sport X**: 
 
 Sport X is an sports based project which can be used to managed different Sports Events like Cricket, Football, Badminton etc and auctions related to these sports events. There are different user roles like Admin, Organizer, Player and Public
 
