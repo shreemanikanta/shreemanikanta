@@ -1,24 +1,43 @@
 Hi there, I'm Shree Manikanta! 👋
+
 Welcome to my GitHub profile! I'm passionate about web development and technology, always eager to learn and build something new.
 
 🚀 About Me
+
+
 🌱 Currently Learning: React.js and advanced ERPNext customization.
+
 💻 Experience: Backend developer with around 2 year of experience. Skilled in creating REST APIs using Django Rest Framework, handling authentication and security, customizing ERPNext, and building responsive web applications.
+
 🎓 Education: B.Tech in Agriculture Engineering.
+
 🌐 Interests: Web Development
 
+
+
 🛠️ Skills & Technologies
+
+
 Backend: Django, Django Rest Framework, ERPNext, WebSockets
+
 Frontend: HTML, CSS, JavaScript, React.js (learning)
+
 Databases: PostgreSQL, MySQL
+
 Tools: Git, GitHub, GitLab, Docker
+
 Other: API Development, Payment Integration
+
 
 📈 My GitHub Stats
 
 🌍 Connect with Me
+
+
 Portfolio: your-website.com
+
 LinkedIn: https://www.linkedin.com/in/shreemanikanta/
+
 Email: shreemanikanta143@example.com
 
 🔭 Projects
@@ -32,4 +51,5 @@ My Portfolio: A portfolio showcasing my web development skills.
 
 
 💡 Fun Fact
+
 I have a degree in Agriculture Engineering, but my passion for web development has taken me on an exciting journey in the tech world! 🌱
