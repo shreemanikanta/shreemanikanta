@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 ## 🌍 Connect with Me
 
 
-**Portfolio**: working on....
+**Portfolio**: https://shreemanikanta.netlify.app/
 
 **LinkedIn**: https://www.linkedin.com/in/shreemanikanta/
 
