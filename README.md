@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 
 **LinkedIn**: https://www.linkedin.com/in/shreemanikanta/
 
-**Email**: shreemanikanta143@example.com
+**Email**: shreemanikanta143@gmail.com
 
 ## 🔭 Projects
 Here are a few projects I've been worked on:
