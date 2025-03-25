@@ -43,6 +43,10 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 ## 🔭 Projects
 Here are a few projects I've been worked on:
 
+**HR-Module Customization - ERPNext**: 
+
+HR Module Customization and Implementation using ERPNext. The project is to build a centralized human resource management application using ERPNext for Admin Users and for Employees' self service.
+
 **Sport X**: 
 
 Sport X is an sports based project which can be used to managed different Sports Events like Cricket, Football, Badminton etc and auctions related to these sports events. There are different user roles like Admin, Organizer, Player and Public
