@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 
 **🌱 Currently Learning**:  React.js and advanced in Djano Rest Framework and ERPNext customization.
 
-**💻 Experience**: Backend developer with over 2 year of experience. Skilled in creating REST APIs using Django Rest Framework, handling authentication and security, customizing ERPNext, and building responsive web applications.
+**💻 Experience**: Backend developer with close to 3 years of experience. Skilled in creating REST APIs using Django Rest Framework, handling authentication and security, customizing ERPNext, and building responsive web applications.
 
 **🎓 Education**: B.Tech in Agriculture Engineering.
 
