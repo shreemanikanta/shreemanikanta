@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 
 **🎓 Education**: B.Tech in Agriculture Engineering.
 
-**🌐 Interests**: Web Development
+**🌐 Interests**: Web Development, Backend Development
 
 
 
@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm passionate about web development and technolog
 
 **Frontend**: HTML, CSS, JavaScript, React.js (learning)
 
-**Databases**: PostgreSQL, MySQL
+**Databases**: PostgreSQL, MySQL, Mariadb
 
-**Tools**: Git, GitHub, GitLab, Docker
+**Tools**: Git, GitHub, GitLab, Docker, Postman
 
 **Other**: API Development, Payment Integration
 
